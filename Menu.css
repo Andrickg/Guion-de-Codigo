@@ -20,14 +20,14 @@ ul,ol{
     float: left;
 }
 .nav li a{
-    Background-color:#00e000;
+    Background-color:#000000;
     color: #fff;
     text-decoration: none;
     padding: 10px 12px;
     display: block;
 }
 .nav li a:hover{
-    background-color: #7DE57D;
+    background-color: #434343;
 }
 .nav li ul{
     display: none;
